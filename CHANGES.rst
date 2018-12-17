@@ -21,6 +21,9 @@ Release History
 2.1.1 (unreleased)
 ------------------
 
+**Added**
+
+- Added ``nengo_dl.obj`` as a shortcut alias for ``nengo_dl.objectives``.
 
 2.1.0 (December 5, 2018)
 ------------------------
