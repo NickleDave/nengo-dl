@@ -25,6 +25,10 @@ Release History
 
 - Added ``nengo_dl.obj`` as a shortcut alias for ``nengo_dl.objectives``.
 
+**Changed**
+
+- Increased minimum ``progressbar2`` version to 3.39.0.
+
 2.1.0 (December 5, 2018)
 ------------------------
 
