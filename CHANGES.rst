@@ -21,6 +21,8 @@ Release History
 2.1.1 (unreleased)
 ------------------
 
+`test test <https://www.alinkthatdoesnot.exist>`_
+
 **Changed**
 
 - Increased minimum ``progressbar2`` version to 3.39.0.
